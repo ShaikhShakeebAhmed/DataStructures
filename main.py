@@ -1,1 +1,2 @@
-import A_BigO
+#import A_BigOLinearTime
+import B_BigOConstantTime
