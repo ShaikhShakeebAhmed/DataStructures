@@ -15,3 +15,4 @@ def anotherFunChallenge(input):
 
 
 # BIG O will be BIG O(4+7n) 
+# O(n!) https://stackoverflow.com/questions/3953244/example-of-on
