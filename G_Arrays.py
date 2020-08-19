@@ -5,7 +5,7 @@ arrayOrList  = [1,2,3,4,5]
 print(arrayOrList[3]) #O(n)
 
 #>> Add new element
-arrayOrList.append(6) #O(1)
+arrayOrList.append(6) #O(1) or 0(n)
 
 print(arrayOrList)
 
