@@ -19,3 +19,12 @@ print(arrayOrList)
 print(arrayOrList.pop(3)) #O(n)
 print(arrayOrList)
 
+# Reverse a string
+
+def reverseAString(string):
+  lengthofString = len(string)
+  result = string[lengthofString::-1]
+  print(result)
+
+
+reverseAString("shakeeb")
